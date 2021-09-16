@@ -1,0 +1,117 @@
+#form1{
+	width: 400px;
+	display: block;
+	margin: 10px auto;
+}
+
+#form2{
+	width: 410px;
+	display: block;
+	margin: 20px auto;
+}
+
+table{
+	width: 400px;
+	display: block;
+	margin: 5px auto;
+	border: 1px solid #000;
+	border-collapse: collapse;
+}
+
+th{
+	width: 100px;
+	font-family: Avenir Medium;
+	background-color: #EBEBEB;
+}
+
+td{
+	width: 100px;
+	text-align: center;
+	font-family: Avenir Medium;
+}
+
+
+h1{
+	font-family: Avenir Medium;
+	font-size: 25px;
+}
+
+h2{
+	font-family: Avenir Medium;
+	font-size: 20px;
+	color: #E52B9F;
+	text-align: center;
+}
+
+#lb{
+	margin-right: 5px;
+}
+
+#busquedaLab{
+	margin-right: 5px;
+}
+
+#busquedaLab{
+	width: 130px;
+}
+
+#btnBuscar{
+	width: 100px;
+	border: 1px solid #000;
+	border-radius: 3px;
+}
+
+#btnBuscar:hover{
+	background-color: #C4C4C2;
+}
+
+.label1{
+	font-family: Avenir Medium;
+	font-size: 18px;
+}
+
+.label{
+	font-family: Avenir Medium;
+	font-size: 18px;
+	display: inline-block;
+	width: 130px;
+	vertical-align: top;
+}
+
+.d{
+	margin-bottom: 10px;
+}
+
+textarea{
+	display: block;
+	width: 350px;
+	height: 80px;
+}
+
+#btnGuardar{
+	width: 150px;
+	border: 1px solid #000;
+	border-radius: 3px;
+	display: block;
+	margin-left: 100px;
+}
+
+#btnGuardar:hover{
+	background-color: #C4C4C2;
+}
+
+#laboratorio{
+	width: 155px;
+}
+
+span{
+	font-family: Avenir Medium;
+	font-size: 13px;
+	color: #FF0000;
+}
+
+
+@font-face{
+	font-family: 'Avenir Medium';
+	src: url(fonts/AvenirMedium.ttf); 
+}
